@@ -30,7 +30,7 @@ Este projeto implementa um sistema de simular o controle do ângulo de um servom
 
 1. Clone o repositório:
 ```bash
-git clone []
+git clone [https://github.com/KeyllaK/servo.git]
 ```
 
 2. Configure o ambiente de desenvolvimento seguindo as instruções do Pico SDK
