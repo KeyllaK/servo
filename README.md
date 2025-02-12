@@ -1,4 +1,4 @@
-# Temporizador de um disparo - Projeto Embarcatech
+# Controle de servomotor por PWM - Projeto Embarcatech
 
 Este projeto implementa um sistema de simular o controle do ângulo de um servomotor.
 
