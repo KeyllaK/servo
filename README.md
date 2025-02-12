@@ -5,7 +5,7 @@ Este projeto implementa um sistema de simular o controle do ângulo de um servom
 ## 🎯 Funcionalidades
 - O braço do servomotor é ajustado para 180° ficando 5 segundos, até mudar novamente o ângulo.
 - Após a execução o braço do servomotor fica em loop, movimentando suavemente.
-
+- Link do video: https://youtube.com/shorts/8XcPCgaRmRk?feature=share
 # Teste
 - Configurar o PWM para controlar o servo.
 - Controlar o servo nos ângulos desejados.
